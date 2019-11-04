@@ -1,0 +1,2 @@
+"comma" followed by "colen" followed by "set of charaters" followed by "colen" followed by ")" and ";"
+\,\'[a-zA-Z ]+\'\)\;
